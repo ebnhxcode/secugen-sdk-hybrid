@@ -69,8 +69,10 @@ if '__main__' == __name__:
 
     #///////////////////////////////////////////////
     #// getDeviceInfo() //TODO
-    finger_width=constant_hamster_pro20_width
-    finger_height=constant_hamster_pro20_height
+    #finger_width=constant_hamster_pro20_width
+    #finger_height=constant_hamster_pro20_height
+    finger_width=500
+    finger_height=500
 
     #///////////////////////////////////////////////
     #///////////////////////////////////////////////
